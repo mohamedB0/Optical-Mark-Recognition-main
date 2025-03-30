@@ -1,0 +1,6 @@
+## Prérequis
+- Python 3.6+
+- OpenCV
+- NumPy
+- Tkinter
+- keyboard
