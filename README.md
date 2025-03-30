@@ -96,7 +96,4 @@ Modifiez les textes et les éléments de l'interface selon vos besoins.
 ## Structure du projet
 - `AutoGrader.py`: Application principale et interface utilisateur
 - `utils.py`: Fonctions utilitaires pour le traitement d'image
-- `Scanned/`: Dossier où les images traitées sont sauvegardées
 
-## Licence
-[MIT]
